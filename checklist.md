@@ -7,4 +7,4 @@
 - [x] Pull code về máy thành công
 - [x] Tạo branch mới và merge vào main
 - [x] Clone một repo public về xem
-- [ ] Tạo file .gitignore cho dự án Java
+- [x] Tạo file .gitignore cho dự án Java
